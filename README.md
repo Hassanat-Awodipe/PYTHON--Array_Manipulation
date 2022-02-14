@@ -1,6 +1,6 @@
 # Submissions for the DPhi Bootcamp
 
-## Jan 28 to Feb 10 2022
+## Jan 28 to Feb 10, 2022
 
 
 Introduction to Python
